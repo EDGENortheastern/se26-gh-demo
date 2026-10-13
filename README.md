@@ -1,2 +1,3 @@
-# se26-gh-demo
-se26-gh-demo
+# Demo for Markdown 2026
+
+ GitHub Markdown is a scripting language.
